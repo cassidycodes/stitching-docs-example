@@ -1,5 +1,7 @@
 # Add documentation to your stitched schema
 
+Blog post: https://when.cassidy.codes/documenting-source-service-in-stitched-schemas/
+
 ```
 yarn install
 yarn start
